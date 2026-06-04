@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yijing Lin (林伊婧), currently a second year Master student in USTC-CMI lab, at the the School of Information Science and Technology of Science and Technology of China (USTC), supervised by  <a href='https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=en&oi=ao'>Prof. Yongdong Zhang</a>. I obtained my B.E. degree in Artificial Intelligence from USTC in 2024.
+I am Yijing Lin (林伊婧), a second-year Master’s student at the USTC-CMI Lab, School of Information Science and Technology, University of Science and Technology of China (USTC), under the supervision of <a href='https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=en&oi=ao'>Prof. Yongdong Zhang</a>. I received my B.E. degree in Artificial Intelligence from USTC in 2024.
 
 My research interest includes video generation and image generation.
 
@@ -52,17 +52,18 @@ Feel free to contact me at [lyijing@mail.ustc.edu.cn](mailto:lyijing@mail.ustc.e
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICCV 2025</div>
+      <div class="badge">T-PAMI</div>
       <img src='images/dqvae.png' alt="dqvae" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
-    <h2>Realgeneral: Unifying visual generation via temporal in-context learning with video models</h2>
+    <h2>Toward Accurate Image Generation via Dynamic Generative Image Transformer</h2>
     <p><strong>Yijing Lin</strong>, Mengqi Huang, Shuhan Zhuang, Yongdong Zhang</p>
-    <div class="periodical"><em>ICCV 2025</em></div>
+    <div class="periodical"><em>T-PAMI</em></div>
     <p>
       <a href="https://ieeexplore.ieee.org/abstract/document/11358752" target="_blank" style="text-decoration:none;">
         <i class="fas fa-file-alt"></i> Paper
+      </a>
     </p>
   </div>
 </div>
