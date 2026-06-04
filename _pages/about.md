@@ -17,42 +17,92 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am Yijing Lin (林伊婧), currently a second year Master student in USTC-CMI lab, at the the School of Information Science and Technology of Science and Technology of China (USTC), supervised by  <a href='https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=en&oi=ao'>Prof. Yongdong Zhang</a>. I obtained my B.E. degree in Artificial Intelligence from USTC in 2024.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes video generation and image generation.
 
+Feel free to contact me at [lyijing@mail.ustc.edu.cn](mailto:lyijing@mail.ustc.edu.cn).
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *May, 2026*: &nbsp;🎉🎉 Our paper, "UFO: Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation", was accepted by ICML 2026!
+- *Jan, 2026*: &nbsp;🎉🎉 Our paper, "Toward Accurate Image Generation via Dynamic Generative Image Transformer", was accepted by T-PAMI!
+- *Jun, 2025*: &nbsp;🎉🎉 Our paper, "Realgeneral: Unifying visual generation via temporal in-context learning with video models", was accepted by ICCV 2025!
+- *May, 2025*: &nbsp; 🥳🥳 I joined Metastone as a research intern.
+- *Sep, 2024*: &nbsp; 😎😎 I started my postgraduate journey at USTC!
+- *Jun, 2024*: &nbsp; 😎😎 I graduated from USTC!
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- UFO -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICML 2026</div>
+      <img src='images/ufo.png' alt="UFO" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <h2>UFO: Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation</h2>
+    <p>Danning Zhang*, <strong>Yijing Lin*</strong>, Shuhan Zhuang, Mengqi Huang, Shaojin Wu, Shancheng Fang, Zhendong Mao</p> 
+    <div class="periodical"><em>ICML 2026</em></div>
+  </div>
 </div>
+
+<!-- DQVAE -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICCV 2025</div>
+      <img src='images/dqvae.png' alt="dqvae" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <h2>Realgeneral: Unifying visual generation via temporal in-context learning with video models</h2>
+    <p><strong>Yijing Lin</strong>, Mengqi Huang, Shuhan Zhuang, Yongdong Zhang</p>
+    <div class="periodical"><em>ICCV 2025</em></div>
+    <p>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11358752" target="_blank" style="text-decoration:none;">
+        <i class="fas fa-file-alt"></i> Paper
+    </p>
+  </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+<!-- RealGeneral -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICCV 2025</div>
+      <img src='images/realgeneral.png' alt="realGeneral" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <h2>Realgeneral: Unifying visual generation via temporal in-context learning with video models</h2>
+    <p><strong>Yijing Lin</strong>, Mengqi Huang, Shuhan Zhuang, Yongdong Zhang</p>
+    <div class="periodical"><em>ICCV 2025</em></div>
+    <p>
+      <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Lin_RealGeneral_Unifying_Visual_Generation_via_Temporal_In-Context_Learning_with_Video_ICCV_2025_paper.pdf" target="_blank" style="text-decoration:none;">
+        <i class="fas fa-file-alt"></i> Paper
+      </a>
+      |
+      <a href="https://github.com/Lyne1/RealGeneral" target="_blank" style="text-decoration:none;">
+        <i class="fab fa-github"></i> GitHub
+      </a>
+        <a href="https://github.com/Lyne1/RealGeneral/stargazers" target="_blank">
+        <img src="https://img.shields.io/github/stars/Lyne1/RealGeneral?style=social" alt="GitHub stars">
+      </a>
+    </p>
+  </div>
+</div>
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2024.09 – Present**: &nbsp; Master in Information and Communication Engineering,  
+  University of Science and Technology of China (USTC)  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- **2020.09 – 2024.06**: &nbsp; Bachelor in Artificial Intelligence,  
+  University of Science and Technology of China (USTC)  
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.05 - 2025.10*, Metastone.
