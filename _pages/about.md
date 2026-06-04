@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yijing Lin (林伊婧), a second-year Master’s student at the USTC-CMI Lab, School of Information Science and Technology, University of Science and Technology of China (USTC), under the supervision of <a href='https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=en&oi=ao'>Prof. Yongdong Zhang</a>. I received my B.E. degree in Artificial Intelligence from USTC in 2024.
+I am Yijing Lin (林伊婧), a second-year Master’s student at the USTC-CMI Lab, School of Information Science and Technology, University of Science and Technology of China (USTC), under the supervision of <a href='https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=en&oi=ao'>Prof. Yongdong Zhang</a> and <a href='https://scholar.google.com/citations?user=m-0P8sgAAAAJ'>Prof. Zhendong Mao</a>. I received my B.E. degree in Artificial Intelligence from USTC in 2024.
 
 My research interest includes video generation and image generation.
 
