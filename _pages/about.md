@@ -43,7 +43,7 @@ Feel free to contact me at [lyijing@mail.ustc.edu.cn](mailto:lyijing@mail.ustc.e
   </div>
   <div class='paper-box-text'>
     <h2>UFO: Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation</h2>
-    <p>Danning Zhang*, <strong>Yijing Lin*</strong>, Shuhan Zhuang, Mengqi Huang, Shaojin Wu, Shancheng Fang, Zhendong Mao</p> 
+    <p>Danning Zhang*, <strong>Yijing Lin*</strong>, Shuhan Zhuang*, Mengqi Huang, Shaojin Wu, Shancheng Fang, Zhendong Mao</p> 
     <div class="periodical"><em>ICML 2026</em></div>
   </div>
 </div>
