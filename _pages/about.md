@@ -80,7 +80,7 @@ Feel free to contact me at [lyijing@mail.ustc.edu.cn](mailto:lyijing@mail.ustc.e
   </div>
   <div class='paper-box-text'>
     <h2>RealGeneral: Unifying visual generation via temporal in-context learning with video models</h2>
-    <p><strong>Yijing Lin</strong>, Mengqi Huang, Shuhan Zhuang, Yongdong Zhang</p>
+    <p><strong>Yijing Lin</strong>, Mengqi Huang, Shuhan Zhuang, Zhendong Mao</p>
     <div class="periodical"><em>ICCV 2025</em></div>
     <p>
       <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Lin_RealGeneral_Unifying_Visual_Generation_via_Temporal_In-Context_Learning_with_Video_ICCV_2025_paper.pdf" target="_blank" style="text-decoration:none;">
