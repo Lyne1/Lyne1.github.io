@@ -27,7 +27,7 @@ Feel free to contact me at [lyijing@mail.ustc.edu.cn](mailto:lyijing@mail.ustc.e
 
 - *May, 2026*: &nbsp;🎉🎉 Our paper, "UFO: Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation", was accepted by ICML 2026!
 - *Jan, 2026*: &nbsp;🎉🎉 Our paper, "Toward Accurate Image Generation via Dynamic Generative Image Transformer", was accepted by T-PAMI!
-- *Jun, 2025*: &nbsp;🎉🎉 Our paper, "Realgeneral: Unifying visual generation via temporal in-context learning with video models", was accepted by ICCV 2025!
+- *Jun, 2025*: &nbsp;🎉🎉 Our paper, "RealGeneral: Unifying visual generation via temporal in-context learning with video models", was accepted by ICCV 2025!
 - *May, 2025*: &nbsp; 🥳🥳 I joined Metastone as a research intern.
 - *Sep, 2024*: &nbsp; 😎😎 I started my postgraduate journey at USTC!
 - *Jun, 2024*: &nbsp; 😎😎 I graduated from USTC!
@@ -58,7 +58,7 @@ Feel free to contact me at [lyijing@mail.ustc.edu.cn](mailto:lyijing@mail.ustc.e
   </div>
   <div class='paper-box-text'>
     <h2>Toward Accurate Image Generation via Dynamic Generative Image Transformer</h2>
-    <p><strong>Yijing Lin</strong>, Mengqi Huang, Shuhan Zhuang, Yongdong Zhang</p>
+    <p>Zhendong Mao, Mengqi Huang, <strong>Yijing Lin</strong>, Quan Wang, Lei Zhang, Yongdong Zhang</p>
     <div class="periodical"><em>T-PAMI</em></div>
     <p>
       <a href="https://ieeexplore.ieee.org/abstract/document/11358752" target="_blank" style="text-decoration:none;">
@@ -79,7 +79,7 @@ Feel free to contact me at [lyijing@mail.ustc.edu.cn](mailto:lyijing@mail.ustc.e
     </div>
   </div>
   <div class='paper-box-text'>
-    <h2>Realgeneral: Unifying visual generation via temporal in-context learning with video models</h2>
+    <h2>RealGeneral: Unifying visual generation via temporal in-context learning with video models</h2>
     <p><strong>Yijing Lin</strong>, Mengqi Huang, Shuhan Zhuang, Yongdong Zhang</p>
     <div class="periodical"><em>ICCV 2025</em></div>
     <p>
